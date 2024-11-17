@@ -11,4 +11,4 @@ typedef struct {
     int potencia;
 } potencia_t;
 
-//Ahora vamos a declarar las funciones
+
